@@ -1,0 +1,17 @@
+build/
+__pycache__/
+*.pyc
+*.apk
+*.idsig
+*.keystore
+*.jks
+*.log
+*.so
+*.exe
+*.obj
+*.o
+*.a
+input/*
+!input/.gitkeep
+native/aim_signature.h
+build-report.json
